@@ -1,0 +1,22 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9464#comment
+status: Failed
+feedback:
+  message: |+
+    Failed test #1 of 6. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    BIRD
+    Correct output:
+    Bird
+
+    Your code output:
+
+  time: Tue, 04 Oct 2022 04:34:45 UTC
+record: -1
